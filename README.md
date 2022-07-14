@@ -1,7 +1,7 @@
 # Co-Aware
 ---
 
-##A website to spread awareness about deadly infection of Covid-19.
+### A website to spread awareness about deadly infection of Covid-19.
 ---
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
@@ -11,12 +11,15 @@ The virus can spread from an infected person’s mouth or nose in small liquid p
 Stay informed about everything through my useful site:- https://shagun0611.github.io/Co-Aware/
 
 ---
-##Looking for adding new feature such as:-
+## Looking for adding new feature such as:-
 
-Vaccine Information
-Myth busters
-Questions and answers
-Situation reports of every city
+ >Vaccine Information
+ 
+ >Myth busters
+ 
+ >Questions and answers
+ 
+ >Situation reports of every city
 
 ---
-##Feel free to collaborate.
+## Feel free to collaborate.
